@@ -1,5 +1,8 @@
 {
-  "channel": {
+  "channel2": {
+    "title": "banana"
+  },
+  "channel1": {
     "title": "Buyee Blog",
     "link": "https:\/\/blog.buyee.jp",
     "description": "FIND ALL KINDS OF YOUR DESIRED JAPANESE PRODUCTS HERE!",
